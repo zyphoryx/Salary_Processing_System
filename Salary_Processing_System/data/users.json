@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": "U001",
+    "username": "admin",
+    "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "full_name": "System Administrator",
+    "role": "Admin",
+    "email": "admin@paycore.com",
+    "created_at": "2026-04-18T05:54:42",
+    "last_login": "2026-04-19T12:11:18",
+    "active": true,
+    "profile_pic": null
+  },
+  {
+    "user_id": "U002",
+    "username": "hr",
+    "password_hash": "bcb70742aad2b11dddb9cc1708e1b918199f8484f3d4f30aeece88d140cfd04a",
+    "full_name": "HR Manager",
+    "role": "HR",
+    "email": "hr@paycore.com",
+    "created_at": "2026-04-18T05:54:42",
+    "last_login": null,
+    "active": true,
+    "profile_pic": null
+  }
+]
