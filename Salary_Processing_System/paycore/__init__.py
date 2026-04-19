@@ -1,1 +1,0 @@
-# PayCore Enterprise Package
