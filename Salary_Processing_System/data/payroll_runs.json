@@ -1,0 +1,20 @@
+[
+  {
+    "run_id": "RUN0001",
+    "month": "April 2026",
+    "run_date": "2026-04-18T05:54:42",
+    "total_employees": 20,
+    "total_amount": 1472499.73,
+    "status": "Completed",
+    "run_by": "admin"
+  },
+  {
+    "run_id": "RUN0002",
+    "month": "april",
+    "run_date": "2026-04-19T08:41:46",
+    "total_employees": 20,
+    "total_amount": 1489530.43,
+    "status": "Completed",
+    "run_by": "admin"
+  }
+]
